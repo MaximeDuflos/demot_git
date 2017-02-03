@@ -1,3 +1,4 @@
 # demot_git
-Une déme de GI
-dezlkmqkg,fdmklg,fdskmg,fdskmgù
+Une démo de GIT
+
+Et maintenant on modifie directement depuis GitHub
